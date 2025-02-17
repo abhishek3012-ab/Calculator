@@ -28,8 +28,6 @@ Check out the live demo: [GitHub Pages](#) *(Add your deployed link here)*
 3. Press `=` to see the result.
 4. Click `C` to clear the input.
 
-## Screenshots
-*(Add screenshots of your calculator UI here)*
 
 ## Technologies Used
 - **HTML** – Structure of the calculator
