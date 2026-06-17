@@ -9,7 +9,7 @@ A simple calculator web application built using **HTML, CSS, and JavaScript**.
 - Keyboard support for quick calculations
 
 ## Demo
-Check out the live demo: [GitHub Pages](#) *(Add your deployed link here)*
+Check out the live demo: https://abhishek3012-ab.github.io/Calculator/
 
 ## Installation
 1. Clone the repository:
